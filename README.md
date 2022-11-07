@@ -1,8 +1,11 @@
 # Mentorship, or How to rebuild civilisation from scratch
 ***How really important are mentorship and documentation to the survival of civilization? What would happen if we lost everything and had to start over, say, due to a global pandemic? In this talk, we’ll explore my fascination with dystopian TV shows and seek to answer these questions, and come to some action steps to do our part through mentorship, documentation, and more.***
 
+*Presented at Connect.Tech 2022, 9 Sep 2022*   
+<img src="https://github.com/jerdog/mentorship-restarting-civilization/blob/connecttech22/connectTech2022_transparent.png" width="25%" height="25" alt="Connect.Tech 2022 logo" />
+
 ### Viewing slide deck
-To view the slide deck as presented, visit: https://slides.com/jerdog/mentorship-restarting-civilization
+To view the slide deck as presented, visit: https://slides.com/jerdog/connecttech22-mentorship-restarting-civilization
 
 ### Running locally
 _Instructions taken from [MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)_
